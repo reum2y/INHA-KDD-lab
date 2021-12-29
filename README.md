@@ -31,7 +31,7 @@
 
 #### <스터디>
 
-머신러닝 스터디
+ 머신러닝 스터디
 
 
 
@@ -41,11 +41,11 @@
 
 #### <프로젝트>
 
-MonthlyThing
+ MonthlyThing
 
--여성건강 생활케어 플랫폼 "먼슬리씽"에서 데이터베이스를 제공받아
+ -여성건강 생활케어 플랫폼 "먼슬리씽"에서 데이터베이스를 제공받아
 
-rating을 제작하여 PRS(Personalized recommendation system) 구현
+ rating을 제작하여 PRS(Personalized recommendation system) 구현
 
 
 
@@ -55,6 +55,6 @@ rating을 제작하여 PRS(Personalized recommendation system) 구현
 
 #### <그 외>
 
-오픈소스sw개론 수업조교 
+ 오픈소스sw개론 수업조교 
 
  
